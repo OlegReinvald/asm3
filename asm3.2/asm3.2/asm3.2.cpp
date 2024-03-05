@@ -1,4 +1,5 @@
 ﻿#include<iostream>
+using namespace std;
 int main() {
     int x[8];
     int y[8];
@@ -28,6 +29,12 @@ int main() {
     }
     for (size_t i = 0; i < 8; ++i)
     {
-        std::cout << x[i] << ' ' << y[i] << '\n';
+        if (2 * x[i] + 3 * y[i] == 50) {
+            cout << "2*" << x[i] << " + 3 *" << y[i] << " = 22" << '\n';
+        }
+        else {
+            cout << "Error";
+            return 1;
+        }
     }
 }
