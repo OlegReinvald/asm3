@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\oleja\\source\\repos\\asm3.2\\",
+  "WorkspaceRootPath": "C:\\Users\\oleja\\source\\repos\\asm3\\asm3\\asm3.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2E3E5F2-C8DB-443D-83F0-D6EC31E15E3E}|asm3.2\\asm3.2.vcxproj|C:\\Users\\oleja\\source\\repos\\asm3.2\\asm3.2\\asm3.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B2E3E5F2-C8DB-443D-83F0-D6EC31E15E3E}|asm3.2\\asm3.2.vcxproj|C:\\Users\\oleja\\source\\repos\\asm3\\asm3\\asm3.2\\asm3.2\\asm3.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B2E3E5F2-C8DB-443D-83F0-D6EC31E15E3E}|asm3.2\\asm3.2.vcxproj|solutionrelative:asm3.2\\asm3.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "asm3.2.cpp",
-              "DocumentMoniker": "C:\\Users\\oleja\\source\\repos\\asm3.2\\asm3.2\\asm3.2.cpp",
+              "DocumentMoniker": "C:\\Users\\oleja\\source\\repos\\asm3\\asm3\\asm3.2\\asm3.2\\asm3.2.cpp",
               "RelativeDocumentMoniker": "asm3.2\\asm3.2.cpp",
-              "ToolTip": "C:\\Users\\oleja\\source\\repos\\asm3.2\\asm3.2\\asm3.2.cpp",
+              "ToolTip": "C:\\Users\\oleja\\source\\repos\\asm3\\asm3\\asm3.2\\asm3.2\\asm3.2.cpp",
               "RelativeToolTip": "asm3.2\\asm3.2.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAswCEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-05T13:23:49.317Z",
               "EditorCaption": ""

@@ -30,7 +30,7 @@ int main() {
     for (size_t i = 0; i < 8; ++i)
     {
         if (2 * x[i] + 3 * y[i] == 50) {
-            cout << "2*" << x[i] << " + 3 *" << y[i] << " = 22" << '\n';
+            cout << "2*" << x[i] << " + 3 *" << y[i] << " = 50" << '\n';
         }
         else {
             cout << "Error";
