@@ -1,0 +1,105 @@
+﻿  asm3.2.cpp
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(7,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(8,3): error C2065: 'mov': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(8,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(8,7): error C2065: 'eax': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(9,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(9,3): error C2065: 'mov': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(9,7): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(9,7): error C2065: 'ebx': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(10,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(10,3): error C2065: 'mov': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(10,7): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(10,7): error C2065: 'edx': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(12,3): error C2146: syntax error: missing ';' before identifier 'x_inc'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(13,3): error C2065: 'inc': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(13,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(13,7): error C2065: 'eax': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(14,4): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(14,4): error C2065: 'mov': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(14,8): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(14,8): error C2065: 'ebx': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(15,4): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(15,4): error C2065: 'mov': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(15,8): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(15,8): error C2065: 'edx': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(16,4): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(16,4): error C2065: 'mov': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(16,8): error C2146: syntax error: missing ';' before identifier 'esi'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(16,8): error C2065: 'esi': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(16,13): error C2065: 'eax': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(17,4): error C2146: syntax error: missing ';' before identifier 'imul'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(17,4): error C2065: 'imul': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(17,9): error C2146: syntax error: missing ';' before identifier 'esi'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(17,9): error C2065: 'esi': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(18,4): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(18,4): error C2065: 'cmp': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(18,8): error C2146: syntax error: missing ';' before identifier 'esi'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(18,8): error C2065: 'esi': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(19,4): error C2146: syntax error: missing ';' before identifier 'jg'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(19,4): error C2065: 'jg': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(19,7): error C2146: syntax error: missing ';' before identifier 'exit'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(20,4): error C2146: syntax error: missing ';' before identifier 'y_inc'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(19,7): warning C4551: function call missing argument list
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(21,3): error C2065: 'inc': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(21,7): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(21,7): error C2065: 'ebx': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(22,4): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(22,4): error C2065: 'add': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(22,8): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(22,8): error C2065: 'edx': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(22,13): error C2065: 'eax': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(23,4): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(23,4): error C2065: 'add': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(23,8): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(23,8): error C2065: 'edx': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(23,13): error C2065: 'eax': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(24,4): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(24,4): error C2065: 'add': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(24,8): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(24,8): error C2065: 'edx': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(24,13): error C2065: 'ebx': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(25,4): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(25,4): error C2065: 'add': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(25,8): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(25,8): error C2065: 'edx': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(25,13): error C2065: 'ebx': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(26,4): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(26,4): error C2065: 'add': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(26,8): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(26,8): error C2065: 'edx': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(26,13): error C2065: 'ebx': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(27,4): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(27,4): error C2065: 'cmp': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(27,8): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(27,8): error C2065: 'edx': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(28,4): error C2146: syntax error: missing ';' before identifier 'je'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(28,4): error C2065: 'je': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(28,7): error C2146: syntax error: missing ';' before identifier 'solution'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(28,7): error C2065: 'solution': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(29,4): error C2146: syntax error: missing ';' before identifier 'jl'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(29,4): error C2065: 'jl': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(29,7): error C2146: syntax error: missing ';' before identifier 'y_inc'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(29,7): error C2065: 'y_inc': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(30,4): error C2146: syntax error: missing ';' before identifier 'jg'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(30,4): error C2065: 'jg': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(30,7): error C2146: syntax error: missing ';' before identifier 'x_inc'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(30,7): error C2065: 'x_inc': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(33,4): error C2146: syntax error: missing ';' before identifier 'solution'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(34,3): error C2065: 'mov': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(34,7): error C2146: syntax error: missing ';' before identifier 'x_solutions'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(34,19): error C2065: 'ecx': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(34,25): error C2065: 'eax': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(35,4): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(35,4): error C2065: 'mov': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(35,8): error C2146: syntax error: missing ';' before identifier 'y_solutions'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(35,20): error C2065: 'ecx': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(35,26): error C2065: 'ebx': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(36,4): error C2146: syntax error: missing ';' before identifier 'inc'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(36,4): error C2065: 'inc': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(36,8): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(36,8): error C2065: 'ecx': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(37,4): error C2146: syntax error: missing ';' before identifier 'jmp'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(37,4): error C2065: 'jmp': undeclared identifier
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(37,8): error C2146: syntax error: missing ';' before identifier 'x_inc'
+C:\Users\oleja\source\repos\asm3.2\asm3.2\asm3.2.cpp(37,8): error C1003: error count exceeds 100; stopping compilation

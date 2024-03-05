@@ -1,0 +1,75 @@
+﻿  Task1.cpp
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(7,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(8,3): error C2065: 'mov': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(8,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(8,7): error C2065: 'eax': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(9,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(9,3): error C2065: 'mov': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(9,7): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(9,7): error C2065: 'ebx': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(10,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(10,3): error C2065: 'mov': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(10,7): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(10,7): error C2065: 'edx': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(11,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(11,3): error C2065: 'mov': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(11,7): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(11,7): error C2065: 'ecx': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(12,3): error C2146: syntax error: missing ';' before identifier 'a_8'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(13,4): error C2065: 'imul': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(13,9): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(13,9): error C2065: 'ebx': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(14,4): error C2146: syntax error: missing ';' before identifier 'dec'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(14,8): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(14,4): warning C4551: function call missing argument list
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(14,8): error C2065: 'ecx': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(15,4): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(15,4): error C2065: 'cmp': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(15,8): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(15,8): error C2065: 'ecx': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(16,4): error C2146: syntax error: missing ';' before identifier 'jne'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(16,4): error C2065: 'jne': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(16,8): error C2146: syntax error: missing ';' before identifier 'a_8'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(16,8): error C2065: 'a_8': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(17,3): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(17,3): error C2065: 'add': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(17,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(17,7): error C2065: 'eax': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(17,12): error C2065: 'ebx': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(18,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(18,3): error C2065: 'mov': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(18,7): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(18,7): error C2065: 'ecx': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(19,3): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(19,3): error C2065: 'cmp': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(19,7): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(20,3): error C2146: syntax error: missing ';' before identifier 'a_12'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(21,4): error C2065: 'imul': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(21,9): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(21,9): error C2065: 'edx': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(22,4): error C2146: syntax error: missing ';' before identifier 'dec'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(22,8): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(22,4): warning C4551: function call missing argument list
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(22,8): error C2065: 'ecx': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(23,4): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(23,4): error C2065: 'cmp': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(23,8): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(23,8): error C2065: 'ecx': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(24,4): error C2146: syntax error: missing ';' before identifier 'jne'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(24,4): error C2065: 'jne': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(24,8): error C2146: syntax error: missing ';' before identifier 'a_12'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(24,8): error C2065: 'a_12': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(25,3): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(25,3): error C2065: 'add': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(25,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(25,7): error C2065: 'eax': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(25,12): error C2065: 'edx': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(26,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(26,3): error C2065: 'mov': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(26,7): error C2146: syntax error: missing ';' before identifier 'result'
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(26,15): error C2065: 'eax': undeclared identifier
+C:\Users\oleja\source\repos\asm3\asm3\Task1.cpp(27,2): error C2143: syntax error: missing ';' before '}'
+  Task2.cpp
+  Task3.cpp
+  Task4.cpp
+  Generating Code...
