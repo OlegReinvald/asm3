@@ -1,4 +1,2 @@
 ﻿  asm3.3.cpp
-C:\Users\oleja\source\repos\asm3.3\asm3.3\asm3.3.cpp(15,9): warning C4414: 'exit': short jump to function converted to near
-C:\Users\oleja\source\repos\asm3.3\asm3.3\asm3.3.cpp(20,1): warning C4102: 'exit': unreferenced label
-  asm3.3.vcxproj -> C:\Users\oleja\source\repos\asm3.3\Debug\asm3.3.exe
+  asm3.3.vcxproj -> C:\Users\oleja\source\repos\asm3\asm3\asm3.3\Debug\asm3.3.exe
